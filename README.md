@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-### Languages and Tools:
+
 
 <p align="left">
 
@@ -47,25 +47,19 @@
 <!-- Express -->
 <img src="https://skillicons.dev/icons?i=express" width="45"/>
 
-<!-- Django -->
-<img src="https://skillicons.dev/icons?i=django" width="45"/>
 
 <!-- .NET -->
 <img src="https://skillicons.dev/icons?i=dotnet" width="45"/>
 
-<!-- Firebase -->
-<img src="https://skillicons.dev/icons?i=firebase" width="45"/>
 
-<!-- MongoDB / MySQL / PostgreSQL -->
+
+<!-- MongoDB / MySQL -->
 <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
 <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="45"/>
 
-<!-- Android -->
-<img src="https://skillicons.dev/icons?i=android" width="45"/>
 
-<!-- Figma -->
-<img src="https://skillicons.dev/icons?i=figma" width="45"/>
+
+
 
 </p>
 
