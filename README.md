@@ -166,14 +166,14 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaib-code12&include_all_commits=true&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sshahza1b&include_all_commits=true&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=Shahzaib-code12&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=8B5CF6&area=true"
+    src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=Sshahza1b&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=8B5CF6&area=true"
     width="100%"
     alt="GitHub Activity Graph"
   />
