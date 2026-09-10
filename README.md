@@ -164,12 +164,7 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sshahza1b&include_all_commits=true&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1"
-    alt="GitHub Streak"
-  />
-</p>
+
 
 <p align="center">
   <img
