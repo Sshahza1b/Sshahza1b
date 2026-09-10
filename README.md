@@ -162,21 +162,6 @@ Delivered **5+ production-level applications** across the **.NET and MERN ecosys
 </table>
 
 
-## 📊 GitHub Activity
-
-
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=Sshahza1b&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=8B5CF6&area=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-
-
-
 <h3 align="center">Always Learning • Always Building • Always Improving 🚀</h3>
 
 <p align="center">
